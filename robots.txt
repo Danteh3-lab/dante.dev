@@ -1,0 +1,6 @@
+# robots.txt for FireWeb Studio
+User-agent: *
+Allow: /
+
+# Update this to your production domain before deploying
+Sitemap: https://your-domain.example/sitemap.xml
